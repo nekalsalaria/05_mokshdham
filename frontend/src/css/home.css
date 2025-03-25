@@ -31,3 +31,16 @@
     background-position: 100% 0;
   }
 }
+
+
+.home h1 {
+  white-space: nowrap;
+  font-size: 1.5rem;
+  color: #f8f9fa; /* Softer white */
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Subtle shadow for better readability */
+}

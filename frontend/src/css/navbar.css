@@ -48,6 +48,23 @@
   text-shadow: 0 0 10px #e76f51;
 }
 
+.navbar img {
+  display: none; /* Hide the logo by default */
+}
+
+/* Show the logo only on phone screens */
+@media (max-width: 768px) {
+  .navbar img {
+    display: block;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 0;
+  }
+}
+
+
 /* Active link styling */
 .nav-links a.active {
   color: #2a9d8f;

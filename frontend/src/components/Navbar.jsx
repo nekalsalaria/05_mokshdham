@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import logo from "../images/mokshdhamlogo.webp";
 import "../css/navbar.css";
 import { FaBars, FaTimes, FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
@@ -10,6 +11,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
+      <img src={logo} alt="Mokshdham Logo" />
       <h1 className="logo">Mokshdham</h1>
 
       <ul className={isMobile ? "nav-links-mobile" : "nav-links"} onClick={() => setIsMobile(false)}>

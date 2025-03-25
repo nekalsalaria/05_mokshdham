@@ -4,7 +4,7 @@ import "../css/footer.css";
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; 2025 Manoharpura Ideal Mokshdham.</p>
+      <p>&copy; 2025 Manoharpura Mokshdham Vikas Samiti</p>
     </footer>
   );
 };

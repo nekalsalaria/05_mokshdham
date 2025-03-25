@@ -1,15 +1,19 @@
 /* Navbar container styling */
+body{
+  font-family: sans-serif;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
-  background: #222;
+  background:#101148;
   color: #fff;
   height: 60px;
   position: sticky;
   top: 0;
   z-index: 1000;
+  font-size: 0.9rem; 
 }
 
 /* Logo styling */
@@ -18,6 +22,7 @@
   font-weight: bold;
   color: #f4a261;
   cursor: pointer;
+  font-family: sans-serif;
 }
 
 /* Navigation Links Styling */

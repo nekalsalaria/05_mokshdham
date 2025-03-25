@@ -1,8 +1,6 @@
-body{
-  font-family: sans-serif;
-}
 .home {
-  background: url('../images/mainimage.jpg') no-repeat center center/cover;
+  background: url('../images/mainimage.jpg') no-repeat center center;
+  background-size: cover;
   height: 100vh;
   color: #fff;
   display: flex;
@@ -15,10 +13,21 @@ body{
   box-sizing: border-box;
 }
 
-/* Optional Styling for h1 and p */
-.home h1 {
-  font-size: 3rem;
-  margin-bottom: 0.5rem;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-  font-family: sans-serif;
+/* Mobile view ke liye background image scroll animation */
+@media (max-width: 768px) {
+  .home {
+    background: url('../images/mainimage.jpg') repeat-x;
+    background-size: auto 100%;
+    animation: scrollBg 30s linear infinite alternate;
+  }
+}
+
+/* Background Scroll Animation */
+@keyframes scrollBg {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
 }

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../images/mokshdhamlogo.webp";
+import logo from "../images/mokshdhamlogo.enc.jpg";
 import "../css/navbar.css";
 import { FaBars, FaTimes, FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 

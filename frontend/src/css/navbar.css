@@ -54,7 +54,12 @@ body{
 }
 
 .navbar img {
-  display: none; /* Hide the logo by default */
+  display: block; /* Show the logo by default */
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 10px;
 }
 
 /* Show the logo only on phone screens */

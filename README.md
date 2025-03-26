@@ -17,7 +17,6 @@ This project is client work I completed, and the client is very happy with the r
 ## 🎯 Features
 - **Home Page:** A welcoming and peaceful landing page.
 - **Services Page:** Detailed descriptions of available rituals and support.
-- **Booking System:** Users can book services (if applicable).
 - **Contact Page:** Easy way to get in touch for assistance.
 - **Responsive Design:** Works seamlessly on desktop, tablet, and mobile.
 
@@ -47,22 +46,6 @@ This project is client work I completed, and the client is very happy with the r
    ```
 
 ---
-
-## 🧩 Folder Structure
-```
-Mokshdham-Website/
-│
-├── public/               # Static assets
-│   └── index.html        
-│
-├── src/                  # Source code
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # Main pages (Home, Services, Contact)
-│   ├── assets/           # Images, icons, etc.
-│   └── App.js            # Root component
-│
-└── package.json          # Project metadata and scripts
-```
 
 ---
 

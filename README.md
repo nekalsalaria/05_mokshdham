@@ -44,5 +44,12 @@ This project is client work I completed, and the client is very happy with the r
    npm run build
    ```
 
+## 📧 Contact
+
+- **Author:** Nekal Singh Salaria
+- **Email:** [nekalsingh987@gmail.com](mailto:nekalsingh987@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nekalsingh](https://www.linkedin.com/in/nekalsingh)
+- **GitHub:** [github.com/nekalsalaria](https://github.com/nekalsalaria/nekalsalaria)
+
 ### 🚀 Happy Coding!
 

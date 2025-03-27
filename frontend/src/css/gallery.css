@@ -1,0 +1,31 @@
+.gallery {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.gallery h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.gallery-images {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.gallery-images img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.gallery-images img:hover {
+    transform: scale(1.05);
+}

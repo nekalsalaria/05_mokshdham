@@ -6,9 +6,10 @@ const About = () => {
   return (
     <div className="about">
       <h2>Our Mission</h2>
-      <p>Our mission is to provide a dignified farewell to all.</p>
+      <p>To deliver efficient, compassionate, and respectful cremation services, ensuring the highest standards of hygiene, safety, and environmental sustainability. We aim to support grieving families with empathy and care, offering a serene and harmonious environment for the final journey of their loved ones.</p>
       <h2>Our Vision</h2>
-      <p>Our Vision is to provide a dignified farewell to all.</p>
+      <p>To provide a peaceful and dignified space for the last rites, honoring the departed with respect, compassion, and a commitment to the well-being of the community, fostering an environment of tranquility and spiritual solace.
+      </p>
       <div className="objective">
         <h2>Objective</h2>
         <ol>

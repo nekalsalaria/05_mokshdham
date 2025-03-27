@@ -9,8 +9,7 @@ This project is client work I completed, and the client is very happy with the r
 
 ## 🛠️ Tech Stack
 - **Frontend:** React
-- **Styling:** CSS/Tailwind CSS
-- **Package Manager:** npm/yarn
+- **Styling:** CSS
 
 ---
 
@@ -45,28 +44,12 @@ This project is client work I completed, and the client is very happy with the r
    npm run build
    ```
 
----
+## 📧 Contact
 
----
-
-## 📌 Future Improvements
-- Add user authentication for personalized services.
-- Integrate a backend (Node.js/Express) for data storage.
-- SEO optimization for better visibility.
-- Dark mode toggle.
-
----
-
-## 📄 License
-This project is licensed under the MIT License — feel free to modify and enhance it!
-
----
-
-## 🙏 Acknowledgements
-- Inspired by the idea of providing peace and guidance.
-- Built with ❤️ and React.
-
----
+- **Author:** Nekal Singh Salaria
+- **Email:** [nekalsingh987@gmail.com](mailto:nekalsingh987@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nekalsingh](https://www.linkedin.com/in/nekalsingh)
+- **GitHub:** [github.com/nekalsalaria](https://github.com/nekalsalaria/nekalsalaria)
 
 ### 🚀 Happy Coding!
 

@@ -44,28 +44,5 @@ This project is client work I completed, and the client is very happy with the r
    npm run build
    ```
 
----
-
----
-
-## 📌 Future Improvements
-- Add user authentication for personalized services.
-- Integrate a backend (Node.js/Express) for data storage.
-- SEO optimization for better visibility.
-- Dark mode toggle.
-
----
-
-## 📄 License
-This project is licensed under the MIT License — feel free to modify and enhance it!
-
----
-
-## 🙏 Acknowledgements
-- Inspired by the idea of providing peace and guidance.
-- Built with ❤️ and React.
-
----
-
 ### 🚀 Happy Coding!
 

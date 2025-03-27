@@ -9,8 +9,7 @@ This project is client work I completed, and the client is very happy with the r
 
 ## 🛠️ Tech Stack
 - **Frontend:** React
-- **Styling:** CSS/Tailwind CSS
-- **Package Manager:** npm/yarn
+- **Styling:** CSS
 
 ---
 

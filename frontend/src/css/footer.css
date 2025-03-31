@@ -1,22 +1,45 @@
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: black;
+    padding: 20px;
     text-align: center;
-    padding: 20px 10px;
     font-family: Arial, sans-serif;
+    color: white;
 }
 
 footer p {
-    margin: 5px 0;
+    margin: 10px 0;
+    font-size: 14px;
 }
 
 footer a {
-    color: #0A66C2;
+    color: #007bff;
     text-decoration: none;
     font-weight: bold;
 }
 
 footer a:hover {
+    color: #0056b3;
     text-decoration: underline;
-    cursor: pointer;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons h1 {
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.social-icons a {
+    font-size: 24px;
+    margin: 0 10px;
+    color: white;
+    vertical-align: middle;
+}
+
+.social-icons a:hover {
+    color: #ff0000; /* Change color on hover */
 }

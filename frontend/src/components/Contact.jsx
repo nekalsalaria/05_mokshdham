@@ -31,7 +31,7 @@ const Contact = () => {
               Jaipur-302017
             </p>
             <p>
-              <strong>Contact:</strong> 9828399184
+              <strong>Contact:</strong> +91 9828399184
             </p>
           </div>
         </div>

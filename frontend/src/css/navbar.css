@@ -29,7 +29,7 @@ body{
 .nav-links {
   display: flex;
   list-style: none;
-  gap: 50px;
+  gap: 30px;
 }
 
 .nav-links li {

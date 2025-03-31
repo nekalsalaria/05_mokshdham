@@ -28,9 +28,9 @@ const Navbar = () => {
         <li><Link to="/executive-members">Executive Committee</Link></li>
         {/* <li><Link to="/media">Media Coverage</Link></li> */}
 
-        {/* <li className="dropdown">
+        <li className="dropdown">
           <Link to="/events">Events</Link>
-        </li> */}
+        </li>
 
         <li className="dropdown">
           <Link to="/gallery">Gallery</Link>

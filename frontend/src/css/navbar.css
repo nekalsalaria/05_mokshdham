@@ -18,7 +18,7 @@ body{
 
 /* Logo styling */
 .logo {
-  font-size: 1.8rem;
+  font-size: 1rem;
   font-weight: bold;
   color: #f4a261;
   cursor: pointer;
@@ -29,7 +29,7 @@ body{
 .nav-links {
   display: flex;
   list-style: none;
-  gap: 20px;
+  gap: 50px;
 }
 
 .nav-links li {

@@ -11,8 +11,13 @@
 
 .membership h1,
 .membership h2 {
-    color: #333333; /* Darker text for headings */
-    margin-bottom: 10px;
+    text-decoration: none;
+    color: #2c3e50; /* Darker heading color */
+    font-size: 28px;
+    margin-bottom: 15px;
+    border-bottom: 3px solid #3498db; /* Blue border for emphasis */
+    display: inline-block;
+    padding-bottom: 8px;
 }
 
 .membership p {

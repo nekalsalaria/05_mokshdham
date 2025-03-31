@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <img src={logo} alt="Mokshdham Logo" />
-      <h1 className="logo">Mokshdham</h1>
+      <h1 className="logo">Manoharpura Ideal Mokshdham</h1>
 
       <ul className={isMobile ? "nav-links-mobile" : "nav-links"} onClick={() => setIsMobile(false)}>
         <li><Link to="/">Home</Link></li>
@@ -26,11 +26,11 @@ const Navbar = () => {
         </li>
 
         <li><Link to="/executive-members">Executive Committee</Link></li>
-        <li><Link to="/media">Media Coverage</Link></li>
+        {/* <li><Link to="/media">Media Coverage</Link></li> */}
 
-        <li className="dropdown">
+        {/* <li className="dropdown">
           <Link to="/events">Events</Link>
-        </li>
+        </li> */}
 
         <li className="dropdown">
           <Link to="/gallery">Gallery</Link>
